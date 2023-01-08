@@ -29,5 +29,9 @@ print ("After circulating the values are:",circulate())
 ```
 
 ## Output:
+![circulate png](https://user-images.githubusercontent.com/121490826/211192082-962d490d-e6f1-4825-9bd8-b56af4226da7.png)
+
+
 
 ## Result:
+
