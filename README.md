@@ -32,10 +32,9 @@ print ("After circulating the values are:",circulate())
 ```
 
 ## Output:
-~~~
 ![Screenshot (49)](https://user-images.githubusercontent.com/121490826/213912760-b2d58a08-8d5e-4bb0-aba8-425e8a738994.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/121490826/213912784-48870f22-fe90-46a0-8447-aab5a25aac0a.png)
-~~~
+
 
 
 
